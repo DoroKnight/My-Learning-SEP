@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/y64sim.dir/link.d CMakeFiles/y64sim.dir/instructions.cpp.o CMakeFiles/y64sim.dir/main.cpp.o CMakeFiles/y64sim.dir/memory.cpp.o CMakeFiles/y64sim.dir/registers.cpp.o CMakeFiles/y64sim.dir/simulator.cpp.o CMakeFiles/y64sim.dir/simulator_utils.cpp.o -o y64sim

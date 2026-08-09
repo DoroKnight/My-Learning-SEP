@@ -1,0 +1,3 @@
+/mnt/d/My-Learning-for-SE-sep/lab2_sol/cmake-build-debug/CMakeFiles/y64sim.dir
+/mnt/d/My-Learning-for-SE-sep/lab2_sol/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/My-Learning-for-SE-sep/lab2_sol/cmake-build-debug/CMakeFiles/rebuild_cache.dir
